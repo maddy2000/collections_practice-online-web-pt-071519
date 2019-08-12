@@ -31,7 +31,7 @@ end
 end
   
  def find_a(array)
-   array.select! 
+   array.select! {|array| array.start_with? "a"}
 end
 
   
