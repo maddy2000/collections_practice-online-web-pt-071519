@@ -34,4 +34,10 @@ end
    array.select! {|array| array.start_with? "a"}
 end
 
+ def sum_array(array)
+   
+   
+   
+   
+   
   
