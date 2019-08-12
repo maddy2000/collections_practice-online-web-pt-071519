@@ -43,7 +43,7 @@ end
     array.each_with_index.collect do |element,index|
       if index == 1 
         element
-      else element [element]
+      else element [element.length]
     
     
 end  
