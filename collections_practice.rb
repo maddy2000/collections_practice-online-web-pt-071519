@@ -39,6 +39,9 @@ end
    array.inject (0) {|sum,x| sum + x}
  end
    
-   
+  def add_s
+    
+    
+end  
    
   
