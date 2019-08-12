@@ -36,7 +36,7 @@ end
 
  def sum_array(array)
    sum = 0
-   array.inject (0) {|sum
+   array.inject (0) {|sum,x| sum
  end
    
    
